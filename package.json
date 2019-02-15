@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravijaroli1/math-operation.git"
+  },
   "author": "Ravi Jaroli",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravijaroli1/math-operation/issues"
+  },
+  "homepage": "https://github.com/ravijaroli1/math-operation#readme"
 }
